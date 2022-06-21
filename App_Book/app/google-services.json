@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615132699989",
+    "firebase_url": "https://app-book-doctor-default-rtdb.firebaseio.com",
+    "project_id": "app-book-doctor",
+    "storage_bucket": "app-book-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615132699989:android:556e4537eb18d29980e3dc",
+        "android_client_info": {
+          "package_name": "com.example.app_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615132699989-g0b8v48ijbalnfvffv7tmudi52ionbus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_book",
+            "certificate_hash": "f76aa051056663839addd5cf427a7c5fd1a95ec1"
+          }
+        },
+        {
+          "client_id": "615132699989-mvbsv6a8i0n7ngkck2fq6jshc26ing0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQnEX7BEN7gv_3wcI3jIGCwh1rRNcsf-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615132699989-mvbsv6a8i0n7ngkck2fq6jshc26ing0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
